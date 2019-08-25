@@ -15,4 +15,6 @@ Refrigenrantes devem conter o atributo Retornável;
 Na aula do dia 20/08 adicionamos ao projeto os botões:
 Inserir, Consultar, Cancelar, Excluir.
 
+Essa linha vai ser usada para o teste do comando revert!
+
 Última Atualização dia 21/08
