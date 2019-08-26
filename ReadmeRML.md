@@ -1,3 +1,5 @@
 # Git Course
 
-Este é um repositŕio pessoal de Git & GitHub
+Este é um repositório pessoal de Github!
+
+Dono: Renan Moreira Lima
